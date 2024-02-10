@@ -4,11 +4,3 @@ Esse projeto possui os códigos referentes aos exercícios 1 ao 5. Nesse sentido
 
 ### Pasta com aquivos PHP deve ser retirada do "todo" para que os arquivos React possam funcionar normalmente!
 
-### `npm start` 
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
